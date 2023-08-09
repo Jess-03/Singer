@@ -1,0 +1,140 @@
+body{
+    background-color: papayawhip;
+    color: #2b2828;
+}
+
+.container{
+    margin: 0 auto;
+    width: 800px;
+    font-family: 'Wix Madefor Display', sans-serif;
+    
+}
+
+header{
+    background-image:url("https://i0.wp.com/www.thedailylistening.com/wp-content/uploads/2019/03/fleurie.jpg?fit=950%2C559&ssl=1");
+    height: 340px;
+    color: #ffefd5d6;
+}
+
+header h1{
+    padding-left: 61%;
+    padding-top: 30%;
+    font-family: 'Nova Slim', cursive;
+    font-size: 40px;
+}
+
+.biography{
+    width: 590px;
+    display: inline-flex;
+}
+
+.birthday{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 8px;
+    width: 177px;
+    height: 79px;
+    display: inline-grid;
+    justify-items: center;
+    padding-top: 11px;
+    border-radius: 100px;
+    border-style: double;
+}
+
+h3{
+    height: 29px;
+    border-radius: 15px;
+    background-color: rgba(0,0,0,.2);
+    width: fit-content;
+    padding: 0 10px;
+}
+
+tr td{
+    padding-left: 24px;
+}
+
+th {
+    text-align: inherit;
+    padding-left: 24px;
+}
+
+.aside-img{
+    display: flex;
+    height: 251px;
+    margin-top: -98px;
+    margin-left: 550px;
+    z-index: 1;
+    position: absolute;
+    border-radius: 90px;
+}
+
+.shadow{
+    height: 247px;
+    width: 160px;
+    margin-top: -107px;
+    margin-left: 581px;
+    border-right: solid;
+    background-color: rgb(0 0 0 / 20%);
+    position: absolute;
+    border-bottom-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+hr{
+    border: none;
+    border-top: 3px double #bdb19f;
+}
+
+.bday{
+    margin-top: 5px;
+}
+
+h4, h6{
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #2b2828;
+    
+}
+
+.carryu{
+    width: 450px;
+    margin: 0 auto;
+    display: block;
+}
+
+.title{
+    height: 46px;
+    margin-top: 7px;
+    padding-top: 11px;
+    display: inline-flex;
+    align-items: center;
+}
+
+.or-icon{
+    padding-right: 10px;
+}
+
+blockquote{
+    font-size: 40px;
+    display: block;
+    text-align: center;
+    margin-bottom: 35px;
+}
+
+.quote img{
+    width: 200px;
+    position: absolute;
+    border-radius: 70px;
+    border-bottom: solid #9E9E9E;
+}
+
+.flquote{
+    position: relative;
+    width: 500px;
+    height: 250px;
+    margin-left: 240px;
+    margin-top: 51px;
+}
